@@ -5,7 +5,7 @@ sense fils amb Prometheus i Grafana.
 Si teniu algún dubte, podeu contactar amb mi per: sandra.buitrago@estudiantat.upc.edu
 
 
-Scripts del director del treball: \n
+Scripts del director del treball: 
 -- build-csv-tfg.py
 -- jsonp-main.py
 -- meshmon-main.py
