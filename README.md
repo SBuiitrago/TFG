@@ -20,4 +20,5 @@ Scripts antics o antigues proves del treball:
 
 Scripts que s'estan utilitzant:
 -- cambio.sh:  Tasca que executa el cron cada minut
--- scriptcambio.py: Script que transforma els CSV a format que accepta Prometheus.
+-- scriptcambio.py: Script que transforma els CSV a format que accepta Prometheus en aquest cas, mètriques Gauge.
+-- scriptcambiocont.py: Script que transforma els CSV a format que accepta Prometheus en aquest cas, mètriques Counter.
