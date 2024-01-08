@@ -54,9 +54,9 @@ call_push(){
 	echo "calling $cmd"
 	$cmd
 
-	#cmd="python3 scriptfinalcsv.py csv-post/$(ls csv-post|tail -1) pruebita"
-	#$cmd
-
+	cmd="python3 scriptcambiocont.py csv-post/$(ls csv-post|tail -1) contador"
+	$cmd
+ 
 	rm "$temp_output"
 }
 
